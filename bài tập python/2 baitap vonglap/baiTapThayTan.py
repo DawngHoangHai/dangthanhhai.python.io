@@ -1,0 +1,1 @@
+n = int(input("Nhập vào số nguyên dương N = : "))
